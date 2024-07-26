@@ -1,0 +1,48 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\StudentTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3C9586-4048-4F06-B5BA-AC08460C3361}|..\\AttandanceSystem\\StudentAttendanceManagementSystem.csproj|d:\\dotnet\\attandancesystem\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\DotNet\\AttandanceSystem\\README.md",
+              "RelativeDocumentMoniker": "..\\AttandanceSystem\\README.md",
+              "ToolTip": "D:\\DotNet\\AttandanceSystem\\README.md",
+              "RelativeToolTip": "..\\AttandanceSystem\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-26T18:15:05.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
